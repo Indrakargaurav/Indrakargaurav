@@ -40,7 +40,7 @@ With strong foundations in programming, cloud infrastructure, and AI pipelines, 
 ---
 
 ### 🛠 Skills & Technologies
-**Programming Languages:** Python, Java, C, JavaScript  
+**Programming Languages:** Python, Java, C,
 **AI/ML & Data Science:** PyTorch, TensorFlow, Transformers, NLP, RAG, CNNs, Speech & Audio Processing  
 **Data Engineering:** Talend, Apache Airflow, Snowflake, Event-driven ETL, CDC pipelines  
 **DevOps & Cloud:** Docker, AWS (EC2, Lambda, S3, Elastic Beanstalk), Jenkins, CI/CD, Monitoring (Prometheus, Grafana)  
